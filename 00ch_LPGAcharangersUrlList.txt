@@ -1,0 +1,52 @@
+ 【2019 LPGA プロテスト】 
+https://www.lpga.or.jp/qualify/pt/2019/9011/leaderboard/9 -13 data\LPGA_ProTest2019_1a.html  2019����?N9����?����?4����?����?����?`9����?����?6����?����?
+https://www.lpga.or.jp/qualify/pt/2019/9012/leaderboard/9 -13 data\LPGA_ProTest2019_1b.html  2019����?N9����?����?3����?����?����?`9����?����?5����?����?
+https://www.lpga.or.jp/qualify/pt/2019/9013/leaderboard/9 -13 data\LPGA_ProTest2019_1c.html  ����?����?����?����? 2019/9/14 2019����?N8����?����?28����?����?����?`8����?����?30����?����?
+https://www.lpga.or.jp/qualify/pt/2019/9014/leaderboard/9 -13 data\LPGA_ProTest2019_1d.html  2019����?N8����?����?21����?����?����?`8����?����?23����?����?
+https://www.lpga.or.jp/qualify/pt/2019/9015/leaderboard/9 -13 data\LPGA_ProTest2019_1e.html  2019����?N9����?����?10����?����?����?`9����?����?12����?����?
+--
+= 2019/9/18
+
+00ch_LPGAcharangersList.py
+01ch_mkLPGAtoursList_2019.py
+LPGA1_results.py
+LPGA1_tours.py
+LPGA2_players.py
+
+https://mao.5ch.net/test/read.cgi/golf/1556446776/  data\sb5ch_1_0001.html 2019/04/28() 19:19:36.83ID:???
+https://mao.5ch.net/test/read.cgi/golf/1562219769/  data\sb5ch_1_0002.html 2019/08/01() 16:05:54.60 772 
+https://mao.5ch.net/test/read.cgi/golf/1564751797/  data\sb5ch_1_0003.html
+https://mao.5ch.net/test/read.cgi/golf/1564930210/  data\sb5ch_1_0004.html 484 
+https://mao.5ch.net/test/read.cgi/golf/1564954601/  data\sb5ch_1_0005.html
+https://mao.5ch.net/test/read.cgi/golf/1565089527/  data\sb5ch_1_0006.html
+https://mao.5ch.net/test/read.cgi/golf/1565280180/  data\sb5ch_1_0007.html
+https://mao.5ch.net/test/read.cgi/golf/1565502277/  data\sb5ch_1_0008.html
+https://mao.5ch.net/test/read.cgi/golf/1565822114/  data\sb5ch_1_0009.html
+https://mao.5ch.net/test/read.cgi/golf/1566040454/  data\sb5ch_1_0010.html
+https://mao.5ch.net/test/read.cgi/golf/1566116465/  data\sb5ch_1_0011.html
+https://mao.5ch.net/test/read.cgi/golf/1566460301/  data\sb5ch_1_0012.html
+https://mao.5ch.net/test/read.cgi/golf/1566878352/  data\sb5ch_1_0013.html
+https://mao.5ch.net/test/read.cgi/golf/1567077185/  data\sb5ch_1_0014.html
+https://mao.5ch.net/test/read.cgi/golf/1567215071/  data\sb5ch_1_0015.html
+https://mao.5ch.net/test/read.cgi/golf/1567297115/  data\sb5ch_1_0016.html
+https://mao.5ch.net/test/read.cgi/golf/1567358432/  data\sb5ch_1_0017.html
+https://mao.5ch.net/test/read.cgi/golf/1567670686/  data\sb5ch_1_0018.html
+https://mao.5ch.net/test/read.cgi/golf/1568020134/  data\sb5ch_1_0019.html
+https://mao.5ch.net/test/read.cgi/golf/1568248158/  data\sb5ch_1_0020.html
+https://mao.5ch.net/test/read.cgi/golf/1568322821/  data\sb5ch_1_0021.html
+https://mao.5ch.net/test/read.cgi/golf/1568379664/  data\sb5ch_1_0022.html
+https://mao.5ch.net/test/read.cgi/golf/1568449213/  data\sb5ch_1_0023.html
+https://mao.5ch.net/test/read.cgi/golf/1568539434/  data\sb5ch_1_0024.html 2019/09/15 18:24:24.17ID:doeeJ2U1M
+
+ https://2ch.live/cache/view/golf/1568248158
+ https://2ch.live/cache/view/golf/1568020134
+ https://2ch.live/cache/view/golf/1567670686
+ https://2ch.live/cache/view/golf/1567358432
+ https://2ch.live/cache/view/golf/1567297115
+ https://2ch.live/cache/view/golf/1567215071
+ https://2ch.live/cache/view/golf/1567077185
+ https://2ch.live/cache/view/golf/1566878352
+ https://2ch.live/cache/view/golf/1566460301
+ https://2ch.live/cache/view/golf/1566116465
+ https://2ch.live/cache/view/golf/1566040454
+
